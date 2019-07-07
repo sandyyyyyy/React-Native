@@ -1,4 +1,4 @@
-//This is an example code for Bottom Navigation//
+
 import React, { Component, PropTypes } from 'react';
 //import react in our code.
 
