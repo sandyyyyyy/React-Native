@@ -6,7 +6,7 @@ import Welcome from './Welcome';
 
 const origin = {latitude: 49.1326553,longitude: -122.8736708};
 const destination = {latitude: 49.1746579, longitude: -123.1295964};
-const GOOGLE_MAPS_APIKEY = 'AIzaSyC1Rv4qxzh1jeKsAf2a5sF4n6qqT_0nRwU';
+const GOOGLE_MAPS_APIKEY = 'GOOGLE_API';
 
 
 export default class HomeScreen extends React.Component {
