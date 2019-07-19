@@ -1,5 +1,5 @@
 
-# native-react-apps
+# react-native-apps
 ### Feature
 - Map
 - Track location
